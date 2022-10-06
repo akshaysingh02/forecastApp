@@ -14,7 +14,7 @@ const DataBoxWrapper = styled.div`
         max-width: 16rem;
     }
     @media ${device.mobileL} { 
-        max-width: 10rem;
+        max-width: 12rem;
     }
 `
 
