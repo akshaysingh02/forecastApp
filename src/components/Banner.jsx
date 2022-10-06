@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import backgroundImg from '../images/new.jpg'
-import mainSun from '../icons/mainSun.png'
+// import mainSun from '../icons/mainSun.png'
 import weather from '../weather.json'
 import { device } from './styledItems';
 
@@ -32,13 +32,13 @@ const BannerData = styled.div`
     justify-content: space-between;
     
 `
-const ImgDiv = styled.div`
-    background-image: url(${mainSun});
-    background-size: cover;
-    height: 12rem;
-    width: 12rem;
-    align-self: center;
-`
+// const ImgDiv = styled.div`
+//     background-image: url(${mainSun});
+//     background-size: cover;
+//     height: 12rem;
+//     width: 12rem;
+//     align-self: center;
+// `
 
 const TempH1 = styled.h1`
     font-size: 8.2rem;

@@ -1,4 +1,4 @@
-import styled from "styled-components";
+// import styled from "styled-components";
 import { createGlobalStyle } from "styled-components";
 
 export const primary_color = "#102d4e";
